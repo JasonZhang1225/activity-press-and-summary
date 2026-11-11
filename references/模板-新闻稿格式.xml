@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml"
+                xmlns:v="urn:schemas-microsoft-com:vml"
+                xmlns:w10="urn:schemas-microsoft-com:office:word"
+                xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core"
+                xmlns:aml="http://schemas.microsoft.com/aml/2001/core"
+                xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint"
+                xmlns:o="urn:schemas-microsoft-com:office:office"
+                w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <w:fonts>
+    <w:defaultFonts w:ascii="Times New Roman" w:fareast="仿宋" w:h-ansi="Times New Roman" w:cs="Times New Roman"/>
+  </w:fonts>
+  <w:styles>
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Times New Roman" w:fareast="仿宋" w:h-ansi="Times New Roman" w:cs="Times New Roman"/>
+        <w:sz w:val="24"/>
+        <w:sz-cs w:val="24"/>
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:body>
+    <!-- 大标题：微软雅黑，小二号（15pt/30），居中加粗，段后0.5行 -->
+    <w:p>
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:spacing w:before="120" w:after="160" w:line="360" w:line-rule="auto"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:fareast="微软雅黑" w:h-ansi="微软雅黑"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:sz-cs w:val="30"/>
+        </w:rPr>
+        <w:t>计算机学院成功举办第X期“品牌活动”：活动主题全称</w:t>
+      </w:r>
+    </w:p>
+
+    <!-- 发布信息栏（可选，用于校网简报版块）：微软雅黑，小五号（9pt/18），居中灰色 -->
+    <w:p>
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:spacing w:after="200"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:fareast="微软雅黑" w:h-ansi="微软雅黑"/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:sz-cs w:val="18"/>
+        </w:rPr>
+        <w:t>公告版块：工作简报   |   发布部门：计算机科学与技术学院   |   发布范围：北京交通大学</w:t>
+      </w:r>
+    </w:p>
+
+    <!-- 导语段：仿宋，小四号（12pt/24），首行缩进2字符，两端对齐，1.5倍行距 -->
+    <w:p>
+      <w:pPr>
+        <w:ind w:first-line-chars="200" w:first-line="480"/>
+        <w:spacing w:line="360" w:line-rule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="仿宋" w:h-ansi="Times New Roman"/>
+          <w:sz w:val="24"/>
+          <w:sz-cs w:val="24"/>
+        </w:rPr>
+        <w:t>【导语段】为弘扬中华传统文化/关注学生心理发展，2026年X月X日，计算机学院在九教北405成功举办第X期“活动品牌”——活动全称。本次活动共有X名同学参与。活动以……为核心，让同学们在亲身实践中……在交流体验中……以青春实践助力全面发展。</w:t>
+      </w:r>
+    </w:p>
+
+    <!-- 主体过程段：仿宋，小四号，首行缩进2字符，1.5倍行距 -->
+    <w:p>
+      <w:pPr>
+        <w:ind w:first-line-chars="200" w:first-line="480"/>
+        <w:spacing w:line="360" w:line-rule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="仿宋" w:h-ansi="Times New Roman"/>
+          <w:sz w:val="24"/>
+          <w:sz-cs w:val="24"/>
+        </w:rPr>
+        <w:t>【主体过程段】活动当天，现场整洁有序、氛围融洽。活动伊始，工作人员/指导老师结合背景特色向同学们系统讲解……让大家建立直观认识。随后，工作人员现场示范……核心步骤与注意事项。实践环节中，同学们凝神专注、动手创作，工作人员全程巡场指导并细致解答疑问，全体同学在轻松融洽的氛围中深入体验创作乐趣。</w:t>
+      </w:r>
+    </w:p>
+
+    <!-- 配图占位与图注：居中，楷体五号（10.5pt/21） -->
+    <w:p>
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:spacing w:before="120" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="楷体" w:h-ansi="Times New Roman"/>
+          <w:color w:val="555555"/>
+          <w:sz w:val="21"/>
+          <w:sz-cs w:val="21"/>
+        </w:rPr>
+        <w:t>【配图：现场制作过程特写 / 同学围坐交流全景】</w:t>
+      </w:r>
+    </w:p>
+
+    <!-- 成果展示段：仿宋，小四号，首行缩进2字符，1.5倍行距 -->
+    <w:p>
+      <w:pPr>
+        <w:ind w:first-line-chars="200" w:first-line="480"/>
+        <w:spacing w:line="360" w:line-rule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="仿宋" w:h-ansi="Times New Roman"/>
+          <w:sz w:val="24"/>
+          <w:sz-cs w:val="24"/>
+        </w:rPr>
+        <w:t>【成果展示段】本次活动成果丰富，同学们创作出的作品构思巧妙、别具匠心。部分作品……展现古典韵味；部分作品融入现代设计元素，彰显青年学子的创新活力；还有的作品……体现个性巧思。每一件作品都凝聚着创作者的专注与用心，生动展现了同学们积极向上、善于实践的精神风貌。</w:t>
+      </w:r>
+    </w:p>
+
+    <!-- 意义展望段：仿宋，小四号，首行缩进2字符，1.5倍行距 -->
+    <w:p>
+      <w:pPr>
+        <w:ind w:first-line-chars="200" w:first-line="480"/>
+        <w:spacing w:line="360" w:line-rule="auto"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="仿宋" w:h-ansi="Times New Roman"/>
+          <w:sz w:val="24"/>
+          <w:sz-cs w:val="24"/>
+        </w:rPr>
+        <w:t>【意义展望段】此次活动的顺利开展，不仅为同学们搭建了放松身心、提升实践素养的平台，更有效增强了团队凝聚力与文化认同感。未来，计算机学院将继续立足育人初心，持续打造更多形式多样、内涵丰富的品牌活动，引导青年学子在实践中笃行实干、在探索中共同成长。</w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr>
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800"/>
+    </w:sectPr>
+  </w:body>
+</w:wordDocument>
